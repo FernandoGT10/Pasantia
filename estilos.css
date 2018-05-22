@@ -1,0 +1,62 @@
+.fondonegro{
+	background: #24242C;
+	padding: 1%
+
+}
+
+.boton{
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 2px;
+	margin-botton: 2px;
+	background-color:  #797989 ;
+	color: #b2b2c1;
+}
+
+.menulista{
+	display: flex;
+	flex-direction: row;
+	list-style-type: none;
+	flex-wrap: wrap;
+
+
+
+}
+
+
+.contenedor{
+	height: 10% !important;
+	width: 100%;
+	text-align: center;
+	color: #83a34c;
+	background-image: url("https://images.pexels.com/photos/596940/pexels-photo-596940.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+	background-repeat:repeat;
+
+    background-position: center; 
+    margin-bottom: 0;
+}
+.informacion{
+	display:flex; 
+	flex-direction: raw;
+	margin-top: 0;
+}
+.subcontainer{
+    padding: 3%;
+
+
+
+
+}
+
+
+body {background-color: #72c103; 
+
+
+padding: 0;
+margin: 0;
+
+
+ }
+h1   {color: #07c6F7;}
+p    {color: #4b09e5;}
+
